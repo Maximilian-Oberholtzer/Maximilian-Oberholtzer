@@ -13,6 +13,8 @@ Check out my new developer portfolio website here: <a href="https://max-oberholt
   <li>Express</li>
   <li>Material-UI</li>
   <li>Bootstrap</li>
+  <li>Ethereum</li>
+  <li>Metamask</li>
 </ul>
 
 <!--
