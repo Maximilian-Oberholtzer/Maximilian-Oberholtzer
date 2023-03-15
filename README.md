@@ -4,7 +4,7 @@ I am a full stack software engineer that is particulary interested in front-end 
 
 Check out my new developer portfolio website here: <a href="https://max-oberholtzer.com">max-oberholtzer.com</a>
 
-## Here are some technologies I have experience with:
+##💻 Here are some technologies I have experience with:
 <ul>
   <li>Javascript ES6</li>
   <li>React</li>
