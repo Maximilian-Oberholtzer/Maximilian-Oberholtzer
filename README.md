@@ -3,7 +3,8 @@
 I am a full stack software engineer that is particulary interested in front-end development and clean UI/UX designs
 
 Check out my new developer portfolio website here: <a href="https://max-oberholtzer.com">max-oberholtzer.com</a>
-
+Also, my new word-puzzle game (still a work in progress) can be found here: <a href="https://letterswap.io">letterswap.io</a>
+<a href="https://max-oberholtzer.com">max-oberholtzer.com</a>
 ## 💻 Here are some technologies I have experience with:
 <ul>
   <li>Javascript ES6</li>
