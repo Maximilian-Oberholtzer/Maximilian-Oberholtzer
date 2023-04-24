@@ -1,6 +1,6 @@
 # Hi there 👋 My Name is Maximilian
 
-I am a full stack software engineer that is particulary interested in front-end development and clean UI/UX designs
+I am a full stack software engineer that is particulary interested in front-end development and clean UI/UX designs.
 
 Check out my new developer portfolio website here: <a href="https://max-oberholtzer.com">max-oberholtzer.com</a>
 
