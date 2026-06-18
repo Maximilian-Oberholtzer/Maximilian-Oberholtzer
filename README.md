@@ -1,4 +1,4 @@
-# Hi there 👋 My Name is Maximilian
+# Hello 👋 My Name is Maximilian
 
 I am a full stack software engineer that is particulary interested in front-end development and clean UI/UX designs.
 
